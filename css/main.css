@@ -9,9 +9,27 @@ body {
     color: white;
     padding: 12px 30px;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 15px;
 }
 
     .btn:hover {
         background-color: RoyalBlue;
     }
+
+table {
+    height: 10%;
+    width: 100%;
+    border: 1px solid black;
+}
+img {
+    height: 150px;
+    width: 380px;
+}
+#hfont {
+    font-family: Arial;
+    font-size : 50px;
+}
+
+#pfont {
+    font-size : 30px;
+}
