@@ -1,3 +1,11 @@
+/* Basic browser default reset(s). */
+* {
+    font-family: Tahoma, Georgia, sans-serif;
+    font-size: 16px;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
 
 body {
     font-family: Tahoma, Georgia;
