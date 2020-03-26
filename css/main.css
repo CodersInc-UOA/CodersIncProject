@@ -12,6 +12,37 @@ body {
 }
 
 
+a .btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 15px;
+}
+
+a .btn:hover {
+        background-color: RoyalBlue;
+}
+
+table {
+    height: 10%;
+    width: 100%;
+    border: 1px solid black;
+}
+img {
+    height: 150px;
+    width: 380px;
+}
+#hfont {
+    font-family: Arial;
+    font-size : 50px;
+}
+
+#pfont {
+    font-size : 30px;
+}
+
 h4 {
     text-align: center;
 }
@@ -80,4 +111,3 @@ projematic text #17255A
 projematic background #FCF7F8
 projematic grey #C0C6D0
 projematic red #FF3300 */
-
