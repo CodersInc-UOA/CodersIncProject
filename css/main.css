@@ -28,19 +28,12 @@ a .btn:hover {
 table {
     height: 10%;
     width: 100%;
-    border: 1px solid black;
 }
 img {
-    height: 150px;
-    width: 380px;
-}
-#hfont {
-    font-family: Arial;
-    font-size : 50px;
-}
+    height: 100%;
 
-#pfont {
-    font-size : 30px;
+    margin-left: 20px;
+    margin-right: 40px;
 }
 
 h4 {
