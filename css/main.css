@@ -1,3 +1,4 @@
+/* Basic browser default reset(s). */
 * {
     font-family: Tahoma, Georgia, sans-serif;
     font-size: 16px;
@@ -6,16 +7,20 @@
     margin: 0;
 }
 
-
 body {
     padding-top: 70px;
 }
 
+
 .box1 {
     background-color: #FCF7F8;
-}.box2 {
+}
+
+.box2 {
     background-color: #00E6E6;
-}.box3 {
+}
+
+.box3 {
     background-color: #C0C6D0;
 }
 
