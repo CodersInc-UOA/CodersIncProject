@@ -10,3 +10,18 @@
 body {
     padding-top: 70px;
 }
+
+.box1 {
+    background-color: #FCF7F8;
+}.box2 {
+    background-color: #00E6E6;
+}.box3 {
+    background-color: #C0C6D0;
+}
+
+/* projematic blue #003399
+projematic aqua #00E6E6
+projematic text #17255A
+projematic background #FCF7F8
+projematic grey #C0C6D0
+projematic red #FF3300 */
