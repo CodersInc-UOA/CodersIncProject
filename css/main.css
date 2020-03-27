@@ -8,15 +8,12 @@
 }
 
 body {
-    font-family: Tahoma, Georgia;
-
     padding-top: 70px;
 }
 
 
 h4 {
     text-align: center;
-    border-bottom: beige;
 }
 
 .btn:hover, .btn:focus {
@@ -34,7 +31,6 @@ h4 {
     margin: 0 auto;
     max-width: 100%;
     height: 100%;
-    text-align: center;
 }
 
 .box {
@@ -50,6 +46,7 @@ h4 {
 
 .box1 {
     background-image: url(../imgs/box1.svg);
+    text-align: center;
 }
 
 .box1 > button {
